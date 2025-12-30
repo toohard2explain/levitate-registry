@@ -4,5 +4,5 @@
 	"commands": [
 		"create-next-app %dir% --yes"
 	],
-	"docs": "https://nextjs.org/docs/getting-started",
+	"docs": "https://nextjs.org/docs/getting-started"
 }
