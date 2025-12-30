@@ -1,4 +1,8 @@
 {
-  "slug": "nextjs",
-  "name": "NextJS"
+	"slug": "nextjs",
+	"name": "NextJS",
+	"commands": [
+		"create-next-app %dir% --yes"
+	],
+	"docs": "https://nextjs.org/docs/getting-started",
 }
