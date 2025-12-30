@@ -14,5 +14,6 @@
   "django",
   "flask",
   "rails",
-  "laravel"
+  "laravel",
+  "expo"
 ]

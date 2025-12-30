@@ -1,0 +1,9 @@
+{
+	"slug": "expo",
+	"name": "Expo",
+	"commands": [
+		"npx create-expo-app %dir% -e with-shadcn"
+	],
+	"docs": "https://docs.expo.dev/"
+}
+
