@@ -1,0 +1,9 @@
+{
+	"slug": "nuxt",
+	"name": "Nuxt",
+	"commands": [
+		"npx nuxi@latest init %dir%"
+	],
+	"docs": "https://nuxt.com/docs/getting-started/introduction"
+}
+

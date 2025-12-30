@@ -1,0 +1,9 @@
+{
+	"slug": "vite",
+	"name": "Vite",
+	"commands": [
+		"npm create vite@latest %dir% -- --template react-ts"
+	],
+	"docs": "https://vitejs.dev/guide/"
+}
+

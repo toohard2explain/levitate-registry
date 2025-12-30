@@ -1,0 +1,9 @@
+{
+	"slug": "gatsby",
+	"name": "Gatsby",
+	"commands": [
+		"npx gatsby new %dir%"
+	],
+	"docs": "https://www.gatsbyjs.com/docs"
+}
+

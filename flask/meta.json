@@ -1,0 +1,9 @@
+{
+	"slug": "flask",
+	"name": "Flask",
+	"commands": [
+		"mkdir -p %dir% && cd %dir% && python3 -m venv venv && source venv/bin/activate && pip install Flask"
+	],
+	"docs": "https://flask.palletsprojects.com/en/stable/quickstart/"
+}
+

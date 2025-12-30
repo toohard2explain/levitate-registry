@@ -1,0 +1,9 @@
+{
+	"slug": "django",
+	"name": "Django",
+	"commands": [
+		"django-admin startproject myproject %dir%"
+	],
+	"docs": "https://docs.djangoproject.com/en/stable/intro/tutorial01/"
+}
+

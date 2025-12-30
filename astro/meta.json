@@ -1,0 +1,9 @@
+{
+	"slug": "astro",
+	"name": "Astro",
+	"commands": [
+		"npm create astro@latest %dir% -- --template minimal --yes"
+	],
+	"docs": "https://docs.astro.build/en/getting-started/"
+}
+

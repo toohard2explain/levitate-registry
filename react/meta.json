@@ -1,0 +1,9 @@
+{
+	"slug": "react",
+	"name": "React",
+	"commands": [
+		"npx create-react-app %dir% --template typescript"
+	],
+	"docs": "https://react.dev/learn"
+}
+

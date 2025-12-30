@@ -1,0 +1,9 @@
+{
+	"slug": "laravel",
+	"name": "Laravel",
+	"commands": [
+		"composer create-project laravel/laravel %dir%"
+	],
+	"docs": "https://laravel.com/docs/installation"
+}
+

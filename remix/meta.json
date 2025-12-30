@@ -1,0 +1,9 @@
+{
+	"slug": "remix",
+	"name": "Remix",
+	"commands": [
+		"npx create-remix@latest %dir% --yes"
+	],
+	"docs": "https://remix.run/docs"
+}
+

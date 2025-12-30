@@ -1,0 +1,9 @@
+{
+	"slug": "nestjs",
+	"name": "NestJS",
+	"commands": [
+		"npx @nestjs/cli new %dir% --skip-git"
+	],
+	"docs": "https://docs.nestjs.com/"
+}
+

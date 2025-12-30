@@ -1,0 +1,9 @@
+{
+	"slug": "vue",
+	"name": "Vue.js",
+	"commands": [
+		"npm create vue@latest %dir%"
+	],
+	"docs": "https://vuejs.org/guide/quick-start.html"
+}
+

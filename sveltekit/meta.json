@@ -1,0 +1,9 @@
+{
+	"slug": "sveltekit",
+	"name": "SvelteKit",
+	"commands": [
+		"npm create svelte@latest %dir%"
+	],
+	"docs": "https://kit.svelte.dev/docs"
+}
+

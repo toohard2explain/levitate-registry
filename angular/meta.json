@@ -1,0 +1,9 @@
+{
+	"slug": "angular",
+	"name": "Angular",
+	"commands": [
+		"npx @angular/cli new %dir% --defaults"
+	],
+	"docs": "https://angular.io/docs"
+}
+

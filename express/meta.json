@@ -1,0 +1,9 @@
+{
+	"slug": "express",
+	"name": "Express",
+	"commands": [
+		"npx express-generator %dir% --view=ejs"
+	],
+	"docs": "https://expressjs.com/en/starter/installing.html"
+}
+

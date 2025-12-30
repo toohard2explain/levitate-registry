@@ -1,3 +1,18 @@
 [
-  "nextjs"
+  "nextjs",
+  "react",
+  "vite",
+  "vue",
+  "angular",
+  "astro",
+  "sveltekit",
+  "remix",
+  "nuxt",
+  "gatsby",
+  "express",
+  "nestjs",
+  "django",
+  "flask",
+  "rails",
+  "laravel"
 ]
